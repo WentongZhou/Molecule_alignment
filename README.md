@@ -9,4 +9,6 @@ Run the command : `python3 align.py --ref <ref>.sdf --mols <mols>.sdf --type mmf
 
 # Reference
 
+This is a great blog that talks a lot about RdKit applications.
+
 [https://iwatobipen.wordpress.com/2018/09/26/3d-alignment-function-of-rdkit-rdkit/](https://iwatobipen.wordpress.com/2018/09/26/3d-alignment-function-of-rdkit-rdkit/)
